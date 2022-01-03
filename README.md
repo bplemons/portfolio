@@ -2,7 +2,7 @@
 
 ### movies.ipynb
 - Analyze the Movie Industry data set from Kaggle (https://www.kaggle.com/danielgrijalvas/movies/version/2)
-- Use pandas, numpy, seaborn, and matplot to analyze and show corralations in the movies dataset
+- Use pandas, numpy, seaborn, and matplot to clean, analyze, and show corralations in the movies dataset
 
 ## realtor.py
 - realtor.com web scraper
