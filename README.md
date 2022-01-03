@@ -1,4 +1,4 @@
-# Portfolio Projects
+# Projects
 
 ### movies.ipynb
 - Analyze the Movie Industry data set from Kaggle (https://www.kaggle.com/danielgrijalvas/movies/version/2)
